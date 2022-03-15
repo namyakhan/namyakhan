@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript**
 
-- 📫 How to reach me **khannamya@gmail.com**
+- 📫 How to reach me **calendly.com/namyakhan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
