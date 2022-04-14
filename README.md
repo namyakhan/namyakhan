@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/namyakhan](https://github.com/namyakhan)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript**
 
 - 📫 How to reach me **calendly.com/namyakhan**
 
