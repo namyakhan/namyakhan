@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Namya Khan</h1>
 <h3 align="center">A Front-End developer, love to explore minimalist design, curious about new technologies, turning ideas into product is my speciality.</h3>
 
-- 🔭 I’m currently working on [Personal Portfolio](www.namyakhan.com)
+- 🔭 I’m currently making a bunch of cool beginner friendly projects.
 
 - 🌱 I’m currently learning **React**
 
