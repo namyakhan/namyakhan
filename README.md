@@ -3,7 +3,7 @@
 
 A Front-End developer, love to explore minimalist design, curious about new technologies, turning ideas into product is my speciality.
 
-### Find me all around the web:
+## Find me all around the web: ##
 <p align="left">
 <a href="https://twitter.com/namyakhann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="namyakhann" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/namyakhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/namyakhan/" height="30" width="40" /></a>
