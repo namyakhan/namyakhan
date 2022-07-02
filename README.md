@@ -1,5 +1,5 @@
 ## 👋 Hey everyone! I'm Namya Khan 👋!
-[new-game-ahagon-umiko-programming](https://user-images.githubusercontent.com/82830866/177010793-a1b9e4b9-c265-4b22-a36d-fe9d86f3f5ba.gif)
+![](https://user-images.githubusercontent.com/82830866/177010793-a1b9e4b9-c265-4b22-a36d-fe9d86f3f5ba.gif)
 
 
 
