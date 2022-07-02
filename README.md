@@ -1,4 +1,4 @@
-## 👋 Hey everyone! I'm Namya Khan 👋!
+##  Hey everyone! I'm Namya Khan👋
 ![](https://user-images.githubusercontent.com/82830866/177010793-a1b9e4b9-c265-4b22-a36d-fe9d86f3f5ba.gif)
 
 A Front-End developer, love to explore minimalist design, curious about new technologies, turning ideas into product is my speciality.
@@ -19,4 +19,5 @@ A Front-End developer, love to explore minimalist design, curious about new tech
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node.js/node.js-original-wordmark.svg" alt="html5" width="40" height="40"/>
 </p>
