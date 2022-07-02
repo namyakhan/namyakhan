@@ -1,17 +1,13 @@
 ## 👋 Hey everyone! I'm Namya Khan 👋!
 ![](https://user-images.githubusercontent.com/82830866/177010793-a1b9e4b9-c265-4b22-a36d-fe9d86f3f5ba.gif)
-
-
-
 A Front-End developer, love to explore minimalist design, curious about new technologies, turning ideas into product is my speciality.
 
 ### Find me all around the web:
-
-
 <p align="left">
 <a href="https://twitter.com/namyakhann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="namyakhann" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/namyakhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/namyakhan/" height="30" width="40" /></a>
 </p>
+<a href="http://instagram.com/namyakhann" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
