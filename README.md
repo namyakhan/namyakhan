@@ -6,8 +6,8 @@ A Front-End developer, love to explore minimalist design, curious about new tech
 <p align="left">
 <a href="https://twitter.com/namyakhann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="namyakhann" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/namyakhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/namyakhan/" height="30" width="40" /></a>
-</p>
 <a href="http://instagram.com/namyakhann" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="40" /></a>
+  </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
