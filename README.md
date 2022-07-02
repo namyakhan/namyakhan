@@ -1,5 +1,6 @@
 ## 👋 Hey everyone! I'm Namya Khan 👋!
 ![](https://user-images.githubusercontent.com/82830866/177010793-a1b9e4b9-c265-4b22-a36d-fe9d86f3f5ba.gif)
+
 A Front-End developer, love to explore minimalist design, curious about new technologies, turning ideas into product is my speciality.
 
 ### Find me all around the web:
