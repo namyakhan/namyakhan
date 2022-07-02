@@ -2,15 +2,7 @@
 
 A Front-End developer, love to explore minimalist design, curious about new technologies, turning ideas into product is my speciality.
 
-- 🔭 I’m currently making a bunch of cool beginner friendly projects.
-
-- 🌱 I’m currently learning **React**
-
-- 👨‍💻 All of my projects are available at [https://github.com/namyakhan](https://github.com/namyakhan)
-
-- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript**
-
-- 📫 How to reach me **calendly.com/namyakhan**
+### Find me all around the web:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
