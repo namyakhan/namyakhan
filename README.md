@@ -1,5 +1,6 @@
-## 👋 Hey everyone, I'm Namya Khan 👋
-<h3 align="center">A Front-End developer, love to explore minimalist design, curious about new technologies, turning ideas into product is my speciality.</h3>
+## 👋 Hey everyone! I'm Namya Khan 👋
+
+A Front-End developer, love to explore minimalist design, curious about new technologies, turning ideas into product is my speciality.
 
 - 🔭 I’m currently making a bunch of cool beginner friendly projects.
 
