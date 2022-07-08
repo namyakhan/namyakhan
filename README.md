@@ -1,4 +1,4 @@
-##  Hey everyone! I'm Namya Khan👋
+##  Hey everyone! I'm Namya👋
 
 <img src="https://user-images.githubusercontent.com/82830866/177010793-a1b9e4b9-c265-4b22-a36d-fe9d86f3f5ba.gif" width="300" height="250">
 
