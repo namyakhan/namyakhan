@@ -25,3 +25,6 @@ A Front-End developer, love to explore minimalist design, curious about new tech
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="canva.png" alt="canva" width="40" height="40"/>
 </p>
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=namyakhan&theme=radical)](https://git.io/streak-stats)
