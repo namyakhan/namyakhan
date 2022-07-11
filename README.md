@@ -26,4 +26,4 @@ A Front-End developer, love to explore minimalist design, curious about new tech
   <img src="canva.png" alt="canva" width="40" height="40"/>
 </p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=namyakhan&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=namyakhan&theme=dark&hide_border=true)](https://git.io/streak-stats)
