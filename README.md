@@ -27,6 +27,8 @@ A Front-End developer, love to explore minimalist design, curious about new tech
       <img src="mysql.png" alt="mysql" width="55" height="35"/>
       <img src="npm.png" alt="npm" width="40" height="40"/>
       <img src="nodejs.png" alt="nodejs" width="50" height="40"/>
+      <img src="vercel.png" alt="vercel" width="40" height="40"/>
+      <img src="netlify.png" alt="netlify" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="canva.png" alt="canva" width="40" height="40"/>
 </p>
