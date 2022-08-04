@@ -13,6 +13,6 @@ A Front-End developer, love to explore minimalist design, curious about new tech
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=namyakhan&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=namyakhan&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=namyakhan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
