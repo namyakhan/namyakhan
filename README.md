@@ -1,6 +1,7 @@
 ##  Hey everyone! I'm Namya👋
 
-<img src="https://user-images.githubusercontent.com/82830866/177010793-a1b9e4b9-c265-4b22-a36d-fe9d86f3f5ba.gif" width="300" height="250">
+<img src="https://64.media.tumblr.com/cea879ca5ce3bc9fe88ec0af1e44dad4/a3cda92f1cac3bd8-e0/s640x960/b54d9349fa4a5ffcb7b48c6ef6b0c2991882d1db.gif" width="500" height="300">
+
 
 A Front-End developer, love to explore minimalist design, curious about new technologies, turning ideas into product is my speciality.
 
