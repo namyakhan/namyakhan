@@ -2,7 +2,10 @@
 
 <img src="https://64.media.tumblr.com/cea879ca5ce3bc9fe88ec0af1e44dad4/a3cda92f1cac3bd8-e0/s640x960/b54d9349fa4a5ffcb7b48c6ef6b0c2991882d1db.gif" width="350" height="210">
 
-Happiest when I’m learning, building & contributing. I bring together form and function to create something that looks good and performs brilliantly. I love creating sleek user interfaces & bring them to life with code. The main area of my expertise are front-end tools like JavaScript, Tailwind CSS, React.js, Next.js, Figma.
+Happiest when I’m learning, building & contributing. I bring together form and function to create something that looks good and performs brilliantly. I love creating sleek user interfaces & bring them to life with code.
+
+The main area of my expertise are front-end tools like JavaScript, Tailwind CSS, React.js, Next.js, Figma.
+
 When I'm away from my screen you'll find me at the gym or into the wilderness.
 
 
